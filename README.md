@@ -1,5 +1,5 @@
 # Chat-Application
-Basic Chat Application using Django Channels.
+Chat Application using Django Channels.
 
 ### To run the project,
 ```
